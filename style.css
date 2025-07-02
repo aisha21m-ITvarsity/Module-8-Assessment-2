@@ -152,7 +152,7 @@ body{
   width: 70%;   
   max-width: 400px; 
   height: auto;   
-  margin: 20px auto; /* auto left-right = center, 20px top-bottom spacing */
+  margin: 20px auto;
 }
 
 .recipe-details h1{
