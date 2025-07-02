@@ -146,9 +146,13 @@ body{
 }
 /*====RECIPE DETAILS====*/
 
-.recipe-details img{
-    width: 70%;
-    padding-top: 13px;
+
+.recipe-details img {
+  display: block;
+  width: 70%;   
+  max-width: 400px; 
+  height: auto;   
+  margin: 20px auto; /* auto left-right = center, 20px top-bottom spacing */
 }
 
 .recipe-details h1{
